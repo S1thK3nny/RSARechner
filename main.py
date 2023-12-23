@@ -31,7 +31,7 @@ dir = os.path.dirname(os.path.abspath(__file__))
             }, {
                 'type': 'Link',
                 'menuTitle': 'GitHub Repository',
-                'url': 'https://github.com/chriskiehl/Gooey'
+                'url': 'https://github.com/S1thK3nny/RSARechner/'
             }]
         }])
 def main():
