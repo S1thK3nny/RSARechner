@@ -2,6 +2,10 @@
 
 **RSA Rechner** is a Python program that facilitates the straightforward calculation of public and private keys for the RSA encryption method. It uses the Gooey library for creating a graphical user interface.
 
+**Note:** This program is in German.
+
+![Program Interface](https://github.com/S1thK3nny/RSARechner/assets/62566066/df42c98c-c87c-46b4-8a94-274a4d369e16)
+
 ## Table of Contents
 
 - [Introduction](#introduction)
